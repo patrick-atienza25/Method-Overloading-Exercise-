@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Tat\\.nuget\\packages\\": {}
+    "C:\\Users\\tange\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tat\\repos\\Method-Overloading-Exercise-\\MethodOverloading\\MethodOverloading.csproj",
+      "projectUniqueName": "C:\\Users\\tange\\repos\\Method-Overloading-Exercise-\\MethodOverloading\\MethodOverloading.csproj",
       "projectName": "MethodOverloading",
-      "projectPath": "C:\\Users\\Tat\\repos\\Method-Overloading-Exercise-\\MethodOverloading\\MethodOverloading.csproj",
-      "packagesPath": "C:\\Users\\Tat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tat\\repos\\Method-Overloading-Exercise-\\MethodOverloading\\obj\\",
+      "projectPath": "C:\\Users\\tange\\repos\\Method-Overloading-Exercise-\\MethodOverloading\\MethodOverloading.csproj",
+      "packagesPath": "C:\\Users\\tange\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tange\\repos\\Method-Overloading-Exercise-\\MethodOverloading\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tange\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
